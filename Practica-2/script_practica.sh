@@ -1,6 +1,6 @@
 #!/bin/bash
 
-funcion() {
+funcion() { 
 	
 	echo "Por ciclo se le agregará un punto de valor al número que ingreses, hasta que llegue a 10 se imprimirá"
 	read -p "ingresa un valor entre 1 y 9: " valor
